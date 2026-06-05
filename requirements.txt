@@ -1,0 +1,14 @@
+langchain
+langchain_community
+langchain-openai
+langchain-groq
+langchain-google-genai
+python-dotenv
+
+
+
+# uv init
+# uv venv
+# .\.venv\Scripts\Activate.ps1
+
+ 
